@@ -2,7 +2,7 @@
 # D3 Homework - Data Journalism and D3
 
 
-I accepted The New York Times generous offer and will start my new role in data visualization. My first assignment requires analyzing current trends that are shaping American lives. To help readers understand my findings I will creating charts, graphs, and interactive elements.
+I accepted The D3 Times generous offer and will start my new role in data visualization. My first assignment requires analyzing current trends that are shaping American lives. To help readers understand my findings I will creating charts, graphs, and interactive elements.
 
 My new editor wants to run a series of feature stories about the health risks facing particular demographics. She's counting on me to sniff out the first story idea by sifting through information from the U.S. Census Bureau and the Behavioral Risk Factor Surveillance System.
 
